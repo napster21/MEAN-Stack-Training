@@ -16,6 +16,8 @@ Next, set up your computer with the tools you need: Node.js and MongoDB. (Tools.
 
 Now, spent lots of time on the MEAN-Stack-Tutorial.pdf. It walks you through MEAN stack and building a simple blogging application similar to the one on Facebook.
 
+You'll need to be familiar with the Github platform to collaborate on different parts of the same project with your team members. If this is your first time using Git, go through the brief tutorial provided here to see how it works: https://guides.github.com/activities/hello-world/ 
+
 Finally, when you are done, start learning version control software git and github. (Git+Github.md will help you with this.) You'll want to push your blog application onto github just as an exercise and to show off your hard work.
 
 ## Important Topics
